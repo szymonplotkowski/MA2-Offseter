@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.4.0/MA.xsd" major_vers="3" minor_vers="4" stream_vers="0">
+	<Info datetime="2019-01-20T21:31:45" showfile="test show" />
+	<Macro index="0" name="EXPORT 4 OFFSETER">
+		<Macroline index="0">
+			<text>SelectDrive 4</text>
+		</Macroline>
+		<Macroline index="1">
+			<text>Export Preset 2.(Reference preset?) &quot;wyg&quot;</text>
+		</Macroline>
+		<Macroline index="2">
+			<text>Export Preset 2.(Corrected preset?) &quot;corrected&quot;</text>
+		</Macroline>
+	</Macro>
+</MA>
