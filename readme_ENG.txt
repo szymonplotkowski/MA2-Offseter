@@ -2,13 +2,13 @@
 szymonplotkowski@gmail.com
 
 DESCRIPTION:
-Programm compares two MA2 position presets files and writes a macro that sets fixture offsets based on calculated difference.
-In most cases, using this program will makes all position presets looks good, without touching them.
+Programm compares two MA2 position presets and writes a macro that set fixture offsets based on calculated difference.
+In most cases, using this program will makes all positions looks good, without touching them.
 You just have to correct one of them and run macro. In worst case scenario You'll finish with good base for small tweaks.
 Macro don't overwrite or change anything in Your old presets. It's just setting offsets in Patch.
 
 Why use it instead of stage calibration?
-SC is more complicated and force You to correct 4 presets, and have knowlege about coordinates of points You choose.
+SC is more complicated and force You to correct 4 presets.
 
 
 STEB BY STEP:
