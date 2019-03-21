@@ -26,6 +26,10 @@ INSTRUKCJA OBSŁUGI:
 
 
 INFO O WERSJI:
+V 2.4
+- Dodane GUI
+- Wersja OSX
+- Dodatne wyjątki w przypadku braku plików xml w folderze aplikacji
 
 V 2.3
 - Przepisany moduł tworzenia macro z użyciem SPlib (przygotowanie do przenosin programu na MA3)

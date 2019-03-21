@@ -26,6 +26,10 @@ STEB BY STEP:
 
 
 Version info:
+V 2.4
+- GUI Added
+- OSX Version
+- Exception when there's no xml files in app directory 
 
 V 2.3
 - Macro write engine rewrited using MA2_Python_lib (preparation for MA3)
