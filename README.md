@@ -1,4 +1,4 @@
-﻿OFFSETER 4 MA2 developed by Szymon Płotkowski
+OFFSETER 4 MA2 developed by Szymon Płotkowski
 szymonplotkowski@gmail.com
 
 DESCRIPTION:
@@ -18,7 +18,7 @@ STEB BY STEP:
 -Copy that preset on new position, run it and try to correct it. Store new values using UPDATE
 -Run macro EXPORT 4 OFFSETER
 -Macro will ask You for Drive number (4 if You want to use Your flash drive), and numbers of reference and corrected presets !!!DONT USE MA SYNTAX "2.X" - JUST NUMBER ('33' for preset 2.33)!!!
--Now You should have a two XML files(wyg.xml and corrected.xml) in gma2\importexport on Your flashdrive. Put EXE file in same directory and run it 
+-Now You should have a two XML files(wyg.xml and corrected.xml) in gma2\importexport on Your flashdrive. Put EXE an dialog.ui file in same directory and run it 
 -If everything goes well You should have new offsets.xml file in gma2/macros on flashdrive
 -Import Offsets.xml as macro
 -Run Macro
@@ -26,6 +26,10 @@ STEB BY STEP:
 
 
 Version info:
+V 2.4
+- GUI Added
+- OSX Version
+- Exception when there's no xml files in app directory 
 
 V 2.3
 - Macro write engine rewrited using MA2_Python_lib (preparation for MA3)
@@ -45,3 +49,5 @@ V 2.0
 
 V 1.0
 - Concept proof
+
+
