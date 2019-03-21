@@ -28,7 +28,7 @@ STEB BY STEP:
 Version info:
 V 2.4
 - GUI Added
-- OSX Version
+- OSX Version soon
 - Exception when there's no xml files in app directory 
 
 V 2.3
