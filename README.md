@@ -26,6 +26,10 @@ STEB BY STEP:
 
 
 Version info:
+V 2.5
+- Result number is roundet to 5 digits after decimal to avoid floating digits problems
+- If result of comparision is 0 then macroline for attribute is not written
+
 V 2.4
 - GUI Added
 - OSX Version
